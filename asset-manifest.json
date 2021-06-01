@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/linkedin-redux/static/css/main.e1267297.chunk.css",
+    "main.js": "/linkedin-redux/static/js/main.a75877a6.chunk.js",
+    "main.js.map": "/linkedin-redux/static/js/main.a75877a6.chunk.js.map",
+    "runtime-main.js": "/linkedin-redux/static/js/runtime-main.872a32bc.js",
+    "runtime-main.js.map": "/linkedin-redux/static/js/runtime-main.872a32bc.js.map",
+    "static/js/2.089352fd.chunk.js": "/linkedin-redux/static/js/2.089352fd.chunk.js",
+    "static/js/2.089352fd.chunk.js.map": "/linkedin-redux/static/js/2.089352fd.chunk.js.map",
+    "index.html": "/linkedin-redux/index.html",
+    "static/css/main.e1267297.chunk.css.map": "/linkedin-redux/static/css/main.e1267297.chunk.css.map",
+    "static/js/2.089352fd.chunk.js.LICENSE.txt": "/linkedin-redux/static/js/2.089352fd.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.872a32bc.js",
+    "static/js/2.089352fd.chunk.js",
+    "static/css/main.e1267297.chunk.css",
+    "static/js/main.a75877a6.chunk.js"
+  ]
+}
