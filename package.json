@@ -1,6 +1,6 @@
 {
   "name": "linkedin-clone",
-  "homepage": "https://gopigaurav.github.io/linkedin-redux",
+  
   "version": "0.1.0",
   "private": true,
   "dependencies": {
